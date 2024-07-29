@@ -19,7 +19,7 @@ The main workflow is composed of several sequences and activities, structured as
 
 1. **Main Sequence**
 2. **Step 1: Retrieving Unread Outlook Mails**
-3. **Step 2: For Each currentMailMessage**
+3. **Step 2: For Each current Mail**
    - Retrieve Sender Name
    - Retrieve Mail ID
    - Retrieve Subject
