@@ -1,0 +1,54 @@
+Summary of Sentiment Analysis:
+Positive: 6
+Neutral: 0
+Negative: 1
+
+Detailed Aspect-Based Sentiments:
+
+Email from DEEPAK S.J (sjdeepak3@gmail.com):
+Subject: nan
+Date: 2024-07-26 10:43:14
+Sentiment: Positive (Score: 3.5)
+Aspects:
+  product: 0.7
+
+Email from John Doe (john.doe@mailslurp.net):
+Subject: Excellent Customer Service
+Date: 2024-07-28 17:41:07
+Sentiment: Positive (Score: 3.2)
+Aspects:
+  service: 0.6666666666666666
+
+Email from Jane Smith (jane.smith@mailslurp.net):
+Subject: Poor Product Quality
+Date: 2024-07-28 17:47:02
+Sentiment: Negative (Score: -0.7187500000000002)
+Aspects:
+  quality: -0.9750000000000001
+  product: -0.9750000000000001
+
+Email from Michael Johnson (michael.johnson@mailslurp.net):
+Subject: Inquire About Product Features
+Date: 2024-07-28 17:48:21
+Sentiment: Positive (Score: 2.25)
+Aspects:
+  product: 0.5
+
+Email from Emily Brown (emily.brown@mailslurp.net):
+Subject: Mixed Feelings About Service
+Date: 2024-07-28 17:48:57
+Sentiment: Positive (Score: 0.4523809523809524)
+Aspects:
+  service: 0.0
+
+Email from Robert Wilson (robert.wilson@mailslurp.net):
+Subject: Great User Experience
+Date: 2024-07-28 17:49:39
+Sentiment: Positive (Score: 4.055555555555556)
+Aspects:
+
+Email from Linda Green (linda.green@mailslurp.net):
+Subject: Shipping Delays
+Date: 2024-07-28 17:50:08
+Sentiment: Positive (Score: 1.8333333333333335)
+Aspects:
