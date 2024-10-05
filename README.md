@@ -36,10 +36,10 @@ The main workflow is composed of several sequences and activities, structured as
 ## Requirements
 
 - UiPath Studio
-- Microsoft Outlook
+- Microsoft Outlook(old version,not one from MS Store)
 - Python (with necessary libraries for sentiment analysis)
 
 ## Usage
 
 - Run the Main.xaml file in UiPath Studio.
-- The workflow will automatically retrieve unread emails, preprocess their content, perform sentiment analysis, and send the results back via email.
+- The workflow will automatically retrieve unread emails from Outlook, preprocess their content, perform sentiment analysis, and send the results back via email.
