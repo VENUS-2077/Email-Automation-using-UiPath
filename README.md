@@ -37,6 +37,7 @@ The main workflow is composed of several sequences and activities, structured as
 
 - UiPath Studio
 - Microsoft Outlook(old version,not one from MS Store)
+- Visual Studio Code or any other code editor.
 - Python (with necessary libraries for sentiment analysis)
 
 ## Usage
